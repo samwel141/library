@@ -6,7 +6,7 @@ import { BiMenuAltRight } from "react-icons/bi";
 // import OutsideClickHandler from "react-outside-click-handler";
 // import { NavLink } from "react-router-dom";
 
-
+ 
 
 const Header = () => {
   // const [menuOpened, setMenuOpened] = React.useState(false);
